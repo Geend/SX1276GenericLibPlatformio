@@ -25,7 +25,7 @@
         "SX1276MB1xAS",
 	"SX1276GenericLib"
     ],
-    "name": "SX1276Lib",
+    "name": "SX1276GenericLib",
     "platforms": "*",
     "repository": {
         "type": "hg",
